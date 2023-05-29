@@ -1,0 +1,230 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    color: rgb(255, 255, 255);
+    height: 60px;
+    width: 100%;
+    background-color: rgb(59, 59, 59);
+    padding-top: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.logo{
+    float: left;
+    margin-right: 20px;
+}
+
+.list li{
+    margin-left: 2%;
+    margin-right: 2%;
+    display: inline-flex;
+    margin-bottom: 0;
+    padding-top: 10px;
+}
+
+.list ul{
+    margin: 0;
+}
+
+.search-bar{
+    float: right;
+    margin-top: -27px;
+}
+
+.search-bar input{
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.search-bar button{
+    background-color: rgb(59, 59, 59);
+    color: rgb(17, 220, 17);
+    border-color: rgb(17, 220, 17);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.row{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    height: 350px;
+    width: 100%;
+    background-color: rgba(227, 227, 227, 0.697);
+    padding-left: 10.5%;
+    padding-right: 10.5%;
+    padding-top: 70px;
+    margin-bottom: 23px;
+}
+
+.grey{
+    color: grey;
+}
+
+.line{
+    background-color: lightgrey;
+    height: 2px;
+    width: 100%;
+    margin-right: 10.5%;
+    margin-bottom: 10px;
+}
+
+.button-1{
+    color: white;
+    background-color: rgb(64, 182, 255);
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button-2{
+    color: white;
+    background-color: rgb(255, 61, 61);
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button-3{
+    color: white;
+    background-color: rgb(57, 200, 72);
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.hero li{
+    display: inline-flex;
+}
+
+.hero ul{
+    padding: 0;
+}
+
+.subjects{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 10.5%;
+    padding-right: 10.5%;
+}
+
+.col{
+    height: 20%;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-radius: 5px;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 0;
+}
+
+.space{
+    width: 2.5%;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+.con{
+    padding: 20px;
+    border-top-style: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-style: solid;
+}
+
+.form{
+    margin-left: 10.5%;
+    margin-right: 10.5%;
+    margin-top: 30px;
+    margin-bottom: 95px;
+}
+
+.fifty{
+    border-style: none;
+}
+
+.fifty input, select{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 5px;
+}
+
+select{
+    color: grey;
+    padding: 7px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(33, 33, 33);
+    height: 80px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
